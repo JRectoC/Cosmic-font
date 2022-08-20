@@ -1,0 +1,1 @@
+license: Freeware, Non-Commercial
